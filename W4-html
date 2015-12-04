@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>W4: Formatting with CSS </title>
+    <link type="text/css" rel="stylesheet" href="W4-Nadia Kovari stylesheet.css"/>
+</head>
+
+<body>
+   
+    
+    <h1><img src="cat.JPG" alt="HTML5 Icon" width="300" height="300">
+        My cat Cous Cous! </h1>
+    <ul id="topMenu">
+        <li><a href="#Breed" > Her Breed </a></li>
+        <li><a href="#Person" > Her Personalities</a></li>
+        <li><a href="#Stories" >Her Life Stories</a></li>
+        <h2>Summary</h2>
+            <ol id="cat"> 6 months old</ol>
+            <ol id="cat">1 year old</ol>
+            <ol id="cat">2 years old</ol>
+            <ol id="cat">3 years old</ol>
+            <ol id="cat">4 years old</ol>
+            <ol id="cat">6 years old</ol>
+    </ul>
+    
+    <h2><a name="Breed" id="Breed"></a> 
+        Her breed
+    </h2>
+    <p>She is a calico Persian long-hair.</p>
+    
+    
+    <h2><a name="Person" id="Person"></a>
+        Her personalities
+    </h2>
+    <p>She is very snooty, ill-tempered,solitary, clingly. Bascially in all, her personalities are contradicting.</p>
+    
+    
+    <h2><a name="Stories" id="Stories"></a>
+        Her life stories:
+    </h2>
+    <p>Chaos at <span id="cat">6 months old</span></p>
+    <p>Control yourself at <span id="cat">1 year old</span></p>
+    <p>Shedding and knots galore at <span id="cat">2 years old</span></p>
+    <p>Having a new friend when you're <span id="cat">3 years old</span></p>
+    <p>Fed up with home at <span id="cat">4 years old</span></p>
+    <p>Saying goodbye to the number 1 mother at <span id="cat">5 years old</span></p>
+    <p>Life of the sloth at <span id="cat">6 years old</span></p>
+</body>
+</html>
